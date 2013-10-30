@@ -1,8 +1,6 @@
-Secure Hosting Coalition - Charter
-==================================
+# Secure Hosting Coalition - Charter
 
-Purpose
--------
+## Purpose
 
 This charter establishes a coalition of secure hosting providers who share a joint vision transparency, standards and collaboration for the protection of users. The coalition specifically works to protect high-risk users like human rights defenders, journalists, activists, and civil society organisations who depend on secure hosting services to fulfill their mission and conduct their operations in hostile information environments.
 
@@ -32,11 +30,10 @@ We're aligned with:
  - UN Guiding Principles on Business and Human Rights 
  - EU/US Directives on Data Protection / Canadians and Australians.
 
-Commitments
------------
+## Commitments
 
-1. Transparency
----------------
+### 1. Transparency
+
 
 We recognise that secure hosting provision is a complex set of practices and technologies, Secure Hosting Providers will communicate the scope of their services to their users and partners, their adoption of standards and best practices. Users have the right to know.
 
@@ -45,47 +42,45 @@ We will keep our users informed about evolving risks, integrity of their data an
   * We agree to transparently communicate how fit our services are to cater to different risk profiles of users. We agree not to hide or misrepresent our capabilities to service high risk users to users, intermediaries, donors.
   * We will communicate how, when and why we need to comply to legal requests (take down etc.), and what the procedures are.
 
-2. Standards
+### 2. Standards
 
 We believe that building standards in the field is critical to allow practices to be measured and provide reliability and predictability for the users of secure hosting services. We believe that standards will help webmasters and the organisations that support them to make better decisions with regards to the security of their hosting. It will help differentiate secure hosting providers based on objective criteria and their fitness to operate within medium or high risk environments. It will set standards for vendors and funders to push forward industry best practices.
 
-3. Collaboration
+### 3. Collaboration
 
 With a constantly evolving landscape of technological practices and threats, Secure Hosting Providers will seek to maintain the quality of their technological approaches and engage with their peers by participating in knowledge exchange, communities of practices, adopting standards or seek to implement the Guiding Principles on Business and Human Rights.
 
  - Hold each other to account
  - We agree to share about our good practices, bad practices.
 
-Annex 1. Commitments for Intermediary Organisations
----------------------------------------------------
+## Annex 1. Commitments for Intermediary Organisations
 
 Intermediary organisations being organisations such as NGOs, Civil Society Organisations, Humanitarian Organisations, Educational Organisations, Governement or Intergovernmental Organisations, commissioning or procuring Secure Hosting services on behalf of human rights defenders, journalists, activists and civil society organisations.
 
-1. Independence
+### 1. Independence
 
-2. Privacy
+### 2. Privacy
 
 We put the privacy of the individual we serve first. Due informed consent of users to share data with Intermediaries. Balance between reporting and privacy (aggregation/anonymisation).
 
-3. Risk Evaluation
+### 3. Risk Evaluation
 
 We commit to implement or commission standard risk evaluations to assess the risk environments of our beneficiaries.
 
-4. Proportionate
+### 4. Proportionate
 
 We commit to allocate appropriate resources to our user's protection based on the risk evaluation.
 We commit to adapt our own practices to levels appropriate to the risk environments in which we operate.
 We commit to be educated clients and keep informed about the type of human, technical and financial resources needed to operate secure hosting services relevant to various levels of risks.
 
-Annex 2. Commitments for Donors
--------------------------------
+## Annex 2. Commitments for Donors
 
-1. Independence
+### 1. Independence
 
-2. Continuity
+### 2. Continuity
 
 Recognition of the human cost of discontinuing funding.
 
-3. Privacy
+### 3. Privacy
 
 Balance between reporting and privacy. Due informed consent of users to share data with Intermediaries. 
