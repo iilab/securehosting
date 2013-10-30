@@ -1,0 +1,4 @@
+securehosting
+=============
+
+Secure Hosting Coalition
