@@ -29,20 +29,21 @@ donor. We value and promote the voluntary giving of labour and finances by conce
 
 We're aligned with:
  - APC Internet Rights Charter
- -  UN Guiding Principles on Business and Human Rights 
- -  EU/US Directives on Data Protection / Canadians and Australians.
+ - UN Guiding Principles on Business and Human Rights 
+ - EU/US Directives on Data Protection / Canadians and Australians.
 
 Commitments
 -----------
 
 1. Transparency
+---------------
 
 We recognise that secure hosting provision is a complex set of practices and technologies, Secure Hosting Providers will communicate the scope of their services to their users and partners, their adoption of standards and best practices. Users have the right to know.
 
 We will keep our users informed about evolving risks, integrity of their data and attacks they are subject to. We will seek to respond to our user's questions in a timely manner and to develop partnerships that can help support our capacity to communicate in local languages and recommend other providers of services or resources.
 
-  1.  We agree to transparently communicate how fit our services are to cater to different risk profiles of users. We agree not to hide or misrepresent our capabilities to service high risk users to users, intermediaries, donors.
-  2.  We will communicate how, when and why we need to comply to legal requests (take down etc.), and what the procedures are.
+  * We agree to transparently communicate how fit our services are to cater to different risk profiles of users. We agree not to hide or misrepresent our capabilities to service high risk users to users, intermediaries, donors.
+  * We will communicate how, when and why we need to comply to legal requests (take down etc.), and what the procedures are.
 
 2. Standards
 
